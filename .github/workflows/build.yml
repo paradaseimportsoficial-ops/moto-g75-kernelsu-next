@@ -1,4 +1,4 @@
-name: Experimental GKI 6.6.87 and KernelSU Next
+name: Experimental GKI 6.6.87 and KernelSU Next 
 
 on:
   push:
